@@ -1,6 +1,6 @@
 # Run Keras tests in Colab
 
-<a href="https://colab.research.google.com/gist/AdityaKane2001/df4086c7265a1b3519ffe65ea61d5ec1/keras-build-test-notebook.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<a href="https://colab.research.google.com/github/AdityaKane2001/keras_build_test/blob/main/Keras_build_test_notebook.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 Keras has taken a step towards improving developer experience by hosting the codebase in a separate repository. This drastically improves testing times and is a catalyst for rapid open source development. It is now possible to build Keras from source and test it locally. 
 
